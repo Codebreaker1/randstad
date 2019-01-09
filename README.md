@@ -1,4 +1,4 @@
-# randstad
+# Randstad
 Assesment Randstad
 
 For the Task 1. overlapping alogrithm was used 
